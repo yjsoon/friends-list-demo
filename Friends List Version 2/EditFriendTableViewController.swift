@@ -19,6 +19,11 @@ class EditFriendTableViewController: UITableViewController {
     @IBOutlet weak var defenceSlider: UISlider!
     @IBOutlet weak var staminaSlider: UISlider!
     
+    
+    
+    
+    
+    çç
     var friend: Friend!
     var needNewFriend = false
     
